@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-salvi&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-salvi" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Pyspark**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Machine Leanring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sagar-Salvi](https://github.com/Sagar-Salvi)
 
