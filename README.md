@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sagarsalvi23396@gmail.com**
 
-- ⚡ Fun fact **I'm an introvert. I like to Read, Cook and Code.**
+- ⚡ Fun fact **I'm an introvert. I like to Read, Code and Cook.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
